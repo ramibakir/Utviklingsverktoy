@@ -12,4 +12,4 @@
     * nano bashCardio.txt
         * This file was edited from the terminal on 07/09/20 at 11:55
 * Slette filen
- * rm -f bashCardio.txt
+    * rm -f bashCardio.txt
