@@ -1,0 +1,32 @@
+{
+  "name": "Utviklingsverktoy",
+  "version": "1.0.0",
+  "description": "Oblig3 i Webapplikasjoner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramibakir/Utviklingsverktoy.git"
+  },
+  "keywords": [],
+  "author": "Rami Bakir",
+  "license": "ISC",
+  "browserslist" : {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/ramibakir/Utviklingsverktoy/issues"
+  },
+  "homepage": "https://github.com/ramibakir/Utviklingsverktoy#readme"
+}
