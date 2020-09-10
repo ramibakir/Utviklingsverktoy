@@ -24,4 +24,4 @@
 - Hva er "Cache-Control" i request header på https://www.hiof.no/tjenester/
   - Cache-Control på hiof.no er **no-cache**, som vil si at responsen kan lagres av hvilken som helst cache, selv om repsonsen ikke kan caches. Den lagrede responsen må derimot **alltid** valideres med original serveren før den kan brukes.
 - Hvilken protokoll bruker den siden?
-  - https
+  - Protokollen som brukes på den siden er **https**
