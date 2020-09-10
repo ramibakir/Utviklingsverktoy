@@ -2,9 +2,11 @@
   "name": "Utviklingsverktoy",
   "version": "1.0.0",
   "description": "Oblig3 i Webapplikasjoner",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "babel": "babel main.js --presets=@babel/preset-env --out-dir lib"
+    "babel": "babel main.js --presets=@babel/preset-env --out-dir lib",
+    "dev": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -55,6 +57,7 @@
     "node-sass": "^4.14.1",
     "prettier": "^2.1.1",
     "sass-loader": "^10.0.2",
+    "style-loader": "^1.2.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
