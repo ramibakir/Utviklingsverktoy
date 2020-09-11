@@ -15,11 +15,11 @@
   - git commit -m "added console.log to hiof.js"
 - Pushe endringene til repo
   - git push
-- Lage en fil i dev branch remote
 - Hente endringene lokalt
   - git pull
 - Merge filene fra dev i master
+  - git checkout -
   - git merge dev
 - Samarbeide med en kollega eller en annen konto du har for å få til merge conflict
   - Resolve merge conflict
-  * Se screenshot
+    - Se screenshot
